@@ -46,22 +46,41 @@ Technology:
 Results: This is the data that were predicted as toxic by my model. The results are very impressive
 
 0    Why do so many women become so rude and arrogant when they get just a little bit of we...           1
+
 17                                                                      Can we eat human poop?           1
+
 21   Why do so many people on this damn site not actually answer the question, but give som...           1
+
 27   Let's say that hypothetically the alt-right nightmare comes true, and Muslims take ove...           1
+
 58   Why do Bengali and Kolkata people dominate Hindi language speaking people from Delhi, ...           1
+
 99   Shouldn’t we blame those who knew how bad Trump was and didn’t go to vote for today’s ...           1
+
 105          Why does the media let Saudi Arabia get away with murder of 50,000 kids in Yemen?           1
+
 211                            Why do Asian people hate white and black people? (READ COMMENT)           1
+
 270              What does Habib Fanny think about black people calling each other the N-Word?           1
+
 273  If only some of the Muslims are bad then why don't the majority of Muslims stop demoli...           1
+
 281                                        Why do the Majority of Malays in Malaysia hate DAP?           1
+
 289                                                  Why do White Americans hate Black people?           1
+
 294  Why is Sharia Law so stupid and why do so many Muslims want it enforced in Canada & Am...           1
+
 327                                                               Why do girls suck guys dick?           1
+
 358  Do all conservatives think liberals are stupid and do all liberals think conservatives...           1
+
 467                                               Why are north Indians always angry and rude?           1
+
 517      Why are many Americans getting the impression that people in Ireland don't like them?           1
+
 541  Instead of blaming the world for Islamophobia do Muslims want to introspect the real r...           1
+
 544  Why do Chinese and Indian (in particular) best and brightest students still flock to A...           1
+
 570                       Why do people think white privilege is real when it's blatantly not? 
