@@ -43,7 +43,12 @@ Technology:
       None, performed Select K-Best and Chi-Squared feature selection 
       but all features seems to be useful to the model. 
       
+
+
 Results: This is the data that were predicted as toxic by my model. The results are very impressive
+
+
+
 
 0    Why do so many women become so rude and arrogant when they get just a little bit of we...           1
 
